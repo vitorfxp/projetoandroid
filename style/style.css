@@ -22,7 +22,7 @@
     --fonte-android: 'Android', 'cursive';
 }
 body {
-    background-color:var(--cor0);
+    background-color: var(--cor0);
     font-family: var(--fonte-padrao);
 }
 
